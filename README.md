@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Certificates
-[C# Basics 2024] (https://softuni.bg/certificates/certificates/converttoimage/208352?code=c3da08ac)
+C# Basics 2024 (https://softuni.bg/certificates/certificates/converttoimage/208352?code=c3da08ac)
 
 <!--
 **martinn9998/martinn9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
